@@ -1,0 +1,286 @@
+Les 2 joueurs sont John et Paul. Merci de jouer à 6 qui prend !
+A John de jouer.
+<pause>
+- série n° 1 : 40 (3)
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41
+- Vos cartes : 95 (2), 5 (2), 48, 43, 46, 102, 37, 94, 9, 97
+Saisissez votre choix : 5
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 40 (3)
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41
+- Vos cartes : 81, 96, 27, 53, 71, 8, 73, 13, 64, 50 (3)
+Saisissez votre choix : 53
+<clearScreen>
+Les cartes 5 (John) et 53 (Paul) vont être posées.
+Pour poser la carte 5, John doit choisir la série qu'il va ramasser.
+- série n° 1 : 40 (3)
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41
+Saisissez votre choix : 1
+Les cartes 5 (John) et 53 (Paul) ont été posées.
+- série n° 1 : 5 (2)
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53
+John a ramassé 3 tête de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 5 (2)
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53
+- Vos cartes : 95 (2), 48, 43, 46, 102, 37, 94, 9, 97
+Saisissez votre choix : 48
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 5 (2)
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53
+- Vos cartes : 81, 96, 27, 71, 8, 73, 13, 64, 50 (3)
+Saisissez votre choix : 27
+<clearScreen>
+Les cartes 27 (Paul) et 48 (John) ont été posées.
+- série n° 1 : 5 (2), 27, 48
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53
+Aucun joueur ne ramasse de tête de boeufs.
+A John de jouer.
+<pause>
+- série n° 1 : 5 (2), 27, 48
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53
+- Vos cartes : 95 (2), 43, 46, 102, 37, 94, 9, 97
+Saisissez votre choix : 95
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 5 (2), 27, 48
+- série n° 2 : 89
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53
+- Vos cartes : 81, 96, 71, 8, 73, 13, 64, 50 (3)
+Saisissez votre choix : 81
+<clearScreen>
+Les cartes 81 (Paul) et 95 (John) ont été posées.
+- série n° 1 : 5 (2), 27, 48
+- série n° 2 : 89, 95 (2)
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+Aucun joueur ne ramasse de tête de boeufs.
+A John de jouer.
+<pause>
+- série n° 1 : 5 (2), 27, 48
+- série n° 2 : 89, 95 (2)
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+- Vos cartes : 43, 46, 102, 37, 94, 9, 97
+Saisissez votre choix : 43
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 5 (2), 27, 48
+- série n° 2 : 89, 95 (2)
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+- Vos cartes : 96, 71, 8, 73, 13, 64, 50 (3)
+Saisissez votre choix : 96
+<clearScreen>
+Les cartes 43 (John) et 96 (Paul) vont être posées.
+Pour poser la carte 43, John doit choisir la série qu'il va ramasser.
+- série n° 1 : 5 (2), 27, 48
+- série n° 2 : 89, 95 (2)
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+Saisissez votre choix : 1
+Les cartes 43 (John) et 96 (Paul) ont été posées.
+- série n° 1 : 43
+- série n° 2 : 89, 95 (2), 96
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+John a ramassé 4 tête de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 43
+- série n° 2 : 89, 95 (2), 96
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+- Vos cartes : 46, 102, 37, 94, 9, 97
+Saisissez votre choix : 46
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 43
+- série n° 2 : 89, 95 (2), 96
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+- Vos cartes : 71, 8, 73, 13, 64, 50 (3)
+Saisissez votre choix : 71
+<clearScreen>
+Les cartes 46 (John) et 71 (Paul) ont été posées.
+- série n° 1 : 43, 46, 71
+- série n° 2 : 89, 95 (2), 96
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+Aucun joueur ne ramasse de tête de boeufs.
+A John de jouer.
+<pause>
+- série n° 1 : 43, 46, 71
+- série n° 2 : 89, 95 (2), 96
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+- Vos cartes : 102, 37, 94, 9, 97
+Saisissez votre choix : 102
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 43, 46, 71
+- série n° 2 : 89, 95 (2), 96
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+- Vos cartes : 8, 73, 13, 64, 50 (3)
+Saisissez votre choix : 8
+<clearScreen>
+Les cartes 8 (Paul) et 102 (John) vont être posées.
+Pour poser la carte 8, Paul doit choisir la série qu'il va ramasser.
+- série n° 1 : 43, 46, 71
+- série n° 2 : 89, 95 (2), 96
+- série n° 3 : 88 (5)
+- série n° 4 : 41, 53, 81
+Saisissez votre choix : 4
+Les cartes 8 (Paul) et 102 (John) ont été posées.
+- série n° 1 : 43, 46, 71
+- série n° 2 : 8
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81
+Paul a ramassé 4 tête de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 43, 46, 71
+- série n° 2 : 8
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81
+- Vos cartes : 37, 94, 9, 97
+Saisissez votre choix : 37
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 43, 46, 71
+- série n° 2 : 8
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81
+- Vos cartes : 73, 13, 64, 50 (3)
+Saisissez votre choix : 73
+<clearScreen>
+Les cartes 37 (John) et 73 (Paul) ont été posées.
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 8, 37
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81
+Aucun joueur ne ramasse de tête de boeufs.
+A John de jouer.
+<pause>
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 8, 37
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81
+- Vos cartes : 94, 9, 97
+Saisissez votre choix : 94
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 8, 37
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81
+- Vos cartes : 13, 64, 50 (3)
+Saisissez votre choix : 13
+<clearScreen>
+Les cartes 13 (Paul) et 94 (John) vont être posées.
+Pour poser la carte 13, Paul doit choisir la série qu'il va ramasser.
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 8, 37
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81
+Saisissez votre choix : 2
+Les cartes 13 (Paul) et 94 (John) ont été posées.
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 13
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+Paul a ramassé 2 tête de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 13
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+- Vos cartes : 9, 97
+Saisissez votre choix : 9
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 13
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+- Vos cartes : 64, 50 (3)
+Saisissez votre choix : 64
+<clearScreen>
+Les cartes 9 (John) et 64 (Paul) vont être posées.
+Pour poser la carte 9, John doit choisir la série qu'il va ramasser.
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 13
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+Saisissez votre choix : 2
+Les cartes 9 (John) et 64 (Paul) ont été posées.
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 9, 64
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+John a ramassé 1 tête de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 9, 64
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+- Vos cartes : 97
+Saisissez votre choix : 97
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 9, 64
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+- Vos cartes : 50 (3)
+Saisissez votre choix : 50
+<clearScreen>
+Les cartes 50 (Paul) et 97 (John) vont être posées.
+Pour poser la carte 50, Paul doit choisir la série qu'il va ramasser.
+- série n° 1 : 43, 46, 71, 73
+- série n° 2 : 9, 64
+- série n° 3 : 88 (5), 102
+- série n° 4 : 41, 53, 81, 94
+Saisissez votre choix : 4
+Les cartes 50 (Paul) et 97 (John) ont été posées.
+- série n° 1 : 43, 46, 71, 73, 97
+- série n° 2 : 9, 64
+- série n° 3 : 88 (5), 102
+- série n° 4 : 50 (3)
+Paul a ramassé 4 tête de boeufs
+** Score final
+John a ramassé 8 têtes de boeufs
+Paul a ramassé 10 têtes de boeufs

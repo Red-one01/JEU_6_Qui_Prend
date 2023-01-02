@@ -1,0 +1,483 @@
+Les 4 joueurs sont John, Paul, George et Ringo. Merci de jouer à 6 qui prend !
+A John de jouer.
+<pause>
+- série n° 1 : 76
+- série n° 2 : 26
+- série n° 3 : 40 (3)
+- série n° 4 : 95 (2)
+- Vos cartes : 2, 14, 20 (3), 38, 41, 46, 75 (2), 83, 97, 103
+Saisissez votre choix : 46
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 76
+- série n° 2 : 26
+- série n° 3 : 40 (3)
+- série n° 4 : 95 (2)
+- Vos cartes : 6, 7, 15 (2), 21, 43, 65 (2), 88 (5), 92, 100 (3), 102
+Saisissez votre choix : 100
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 76
+- série n° 2 : 26
+- série n° 3 : 40 (3)
+- série n° 4 : 95 (2)
+- Vos cartes : 9, 13, 18, 25 (2), 36, 37, 49, 54, 85 (2), 96
+Saisissez votre choix : 9
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 76
+- série n° 2 : 26
+- série n° 3 : 40 (3)
+- série n° 4 : 95 (2)
+- Vos cartes : 5 (2), 10 (3), 23, 24, 74, 77 (5), 84, 91, 94, 99 (5)
+Saisissez votre choix : 91
+<clearScreen>
+Les cartes 9 (George), 46 (John), 91 (Ringo) et 100 (Paul) vont être posées.
+Pour poser la carte 9, George doit choisir la série qu'il va ramasser.
+- série n° 1 : 76
+- série n° 2 : 26
+- série n° 3 : 40 (3)
+- série n° 4 : 95 (2)
+Saisissez votre choix : 3
+Les cartes 9 (George), 46 (John), 91 (Ringo) et 100 (Paul) ont été posées.
+- série n° 1 : 76, 91
+- série n° 2 : 26, 46
+- série n° 3 : 9
+- série n° 4 : 95 (2), 100 (3)
+George a ramassé 3 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 76, 91
+- série n° 2 : 26, 46
+- série n° 3 : 9
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 2, 14, 20 (3), 38, 41, 75 (2), 83, 97, 103
+Saisissez votre choix : 2
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 76, 91
+- série n° 2 : 26, 46
+- série n° 3 : 9
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 6, 7, 15 (2), 21, 43, 65 (2), 88 (5), 92, 102
+Saisissez votre choix : 88
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 76, 91
+- série n° 2 : 26, 46
+- série n° 3 : 9
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 13, 18, 25 (2), 36, 37, 49, 54, 85 (2), 96
+Saisissez votre choix : 13
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 76, 91
+- série n° 2 : 26, 46
+- série n° 3 : 9
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 5 (2), 10 (3), 23, 24, 74, 77 (5), 84, 94, 99 (5)
+Saisissez votre choix : 10
+<clearScreen>
+Les cartes 2 (John), 10 (Ringo), 13 (George) et 88 (Paul) vont être posées.
+Pour poser la carte 2, John doit choisir la série qu'il va ramasser.
+- série n° 1 : 76, 91
+- série n° 2 : 26, 46
+- série n° 3 : 9
+- série n° 4 : 95 (2), 100 (3)
+Saisissez votre choix : 1
+Les cartes 2 (John), 10 (Ringo), 13 (George) et 88 (Paul) ont été posées.
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 9, 10 (3), 13
+- série n° 4 : 95 (2), 100 (3)
+John a ramassé 2 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 9, 10 (3), 13
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 14, 20 (3), 38, 41, 75 (2), 83, 97, 103
+Saisissez votre choix : 41
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 9, 10 (3), 13
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 6, 7, 15 (2), 21, 43, 65 (2), 92, 102
+Saisissez votre choix : 43
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 9, 10 (3), 13
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 18, 25 (2), 36, 37, 49, 54, 85 (2), 96
+Saisissez votre choix : 25
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 9, 10 (3), 13
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 5 (2), 23, 24, 74, 77 (5), 84, 94, 99 (5)
+Saisissez votre choix : 74
+<clearScreen>
+Les cartes 25 (George), 41 (John), 43 (Paul) et 74 (Ringo) ont été posées.
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3)
+Paul a ramassé 8 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 14, 20 (3), 38, 75 (2), 83, 97, 103
+Saisissez votre choix : 14
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 6, 7, 15 (2), 21, 65 (2), 92, 102
+Saisissez votre choix : 102
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 18, 36, 37, 49, 54, 85 (2), 96
+Saisissez votre choix : 37
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 2
+- série n° 2 : 26, 46, 88 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3)
+- Vos cartes : 5 (2), 23, 24, 77 (5), 84, 94, 99 (5)
+Saisissez votre choix : 99
+<clearScreen>
+Les cartes 14 (John), 37 (George), 99 (Ringo) et 102 (Paul) ont été posées.
+- série n° 1 : 2, 14, 37
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3), 102
+Aucun joueur ne ramasse de tête de boeufs.
+A John de jouer.
+<pause>
+- série n° 1 : 2, 14, 37
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 20 (3), 38, 75 (2), 83, 97, 103
+Saisissez votre choix : 20
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 2, 14, 37
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 6, 7, 15 (2), 21, 65 (2), 92
+Saisissez votre choix : 92
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 2, 14, 37
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 18, 36, 49, 54, 85 (2), 96
+Saisissez votre choix : 96
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 2, 14, 37
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 5 (2), 23, 24, 77 (5), 84, 94
+Saisissez votre choix : 24
+<clearScreen>
+Les cartes 20 (John), 24 (Ringo), 92 (Paul) et 96 (George) vont être posées.
+Pour poser la carte 20, John doit choisir la série qu'il va ramasser.
+- série n° 1 : 2, 14, 37
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 43, 74
+- série n° 4 : 95 (2), 100 (3), 102
+Saisissez votre choix : 3
+Les cartes 20 (John), 24 (Ringo), 92 (Paul) et 96 (George) ont été posées.
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 20 (3), 24
+- série n° 4 : 95 (2), 100 (3), 102
+John a ramassé 2 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 20 (3), 24
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 38, 75 (2), 83, 97, 103
+Saisissez votre choix : 75
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 20 (3), 24
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 6, 7, 15 (2), 21, 65 (2)
+Saisissez votre choix : 21
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 20 (3), 24
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 18, 36, 49, 54, 85 (2)
+Saisissez votre choix : 49
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 20 (3), 24
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 5 (2), 23, 77 (5), 84, 94
+Saisissez votre choix : 84
+<clearScreen>
+Les cartes 21 (Paul), 49 (George), 75 (John) et 84 (Ringo) vont être posées.
+Pour poser la carte 21, Paul doit choisir la série qu'il va ramasser.
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 26, 46, 88 (5), 99 (5)
+- série n° 3 : 20 (3), 24
+- série n° 4 : 95 (2), 100 (3), 102
+Saisissez votre choix : 2
+Les cartes 21 (Paul), 49 (George), 75 (John) et 84 (Ringo) ont été posées.
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 21
+- série n° 3 : 20 (3), 24, 49, 75 (2), 84
+- série n° 4 : 95 (2), 100 (3), 102
+Paul a ramassé 12 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 21
+- série n° 3 : 20 (3), 24, 49, 75 (2), 84
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 38, 83, 97, 103
+Saisissez votre choix : 83
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 21
+- série n° 3 : 20 (3), 24, 49, 75 (2), 84
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 6, 7, 15 (2), 65 (2)
+Saisissez votre choix : 15
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 21
+- série n° 3 : 20 (3), 24, 49, 75 (2), 84
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 18, 36, 54, 85 (2)
+Saisissez votre choix : 85
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 21
+- série n° 3 : 20 (3), 24, 49, 75 (2), 84
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 5 (2), 23, 77 (5), 94
+Saisissez votre choix : 77
+<clearScreen>
+Les cartes 15 (Paul), 77 (Ringo), 83 (John) et 85 (George) vont être posées.
+Pour poser la carte 15, Paul doit choisir la série qu'il va ramasser.
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 21
+- série n° 3 : 20 (3), 24, 49, 75 (2), 84
+- série n° 4 : 95 (2), 100 (3), 102
+Saisissez votre choix : 2
+Les cartes 15 (Paul), 77 (Ringo), 83 (John) et 85 (George) ont été posées.
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2)
+- série n° 4 : 95 (2), 100 (3), 102
+Paul a ramassé 1 tête de boeufs
+George a ramassé 8 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2)
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 38, 97, 103
+Saisissez votre choix : 97
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2)
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 6, 7, 65 (2)
+Saisissez votre choix : 7
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2)
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 18, 36, 54
+Saisissez votre choix : 36
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2)
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 5 (2), 23, 94
+Saisissez votre choix : 5
+<clearScreen>
+Les cartes 5 (Ringo), 7 (Paul), 36 (George) et 97 (John) vont être posées.
+Pour poser la carte 5, Ringo doit choisir la série qu'il va ramasser.
+- série n° 1 : 2, 14, 37, 92, 96
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2)
+- série n° 4 : 95 (2), 100 (3), 102
+Saisissez votre choix : 1
+Les cartes 5 (Ringo), 7 (Paul), 36 (George) et 97 (John) ont été posées.
+- série n° 1 : 5 (2), 7, 36
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2), 97
+- série n° 4 : 95 (2), 100 (3), 102
+Ringo a ramassé 5 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2), 97
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 38, 103
+Saisissez votre choix : 103
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2), 97
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 6, 65 (2)
+Saisissez votre choix : 65
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2), 97
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 18, 54
+Saisissez votre choix : 18
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2), 97
+- série n° 4 : 95 (2), 100 (3), 102
+- Vos cartes : 23, 94
+Saisissez votre choix : 94
+<clearScreen>
+Les cartes 18 (George), 65 (Paul), 94 (Ringo) et 103 (John) vont être posées.
+Pour poser la carte 18, George doit choisir la série qu'il va ramasser.
+- série n° 1 : 5 (2), 7, 36
+- série n° 2 : 15 (2), 77 (5), 83
+- série n° 3 : 85 (2), 97
+- série n° 4 : 95 (2), 100 (3), 102
+Saisissez votre choix : 4
+Les cartes 18 (George), 65 (Paul), 94 (Ringo) et 103 (John) ont été posées.
+- série n° 1 : 5 (2), 7, 36, 65 (2)
+- série n° 2 : 15 (2), 77 (5), 83, 94
+- série n° 3 : 85 (2), 97, 103
+- série n° 4 : 18
+George a ramassé 6 têtes de boeufs
+A John de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36, 65 (2)
+- série n° 2 : 15 (2), 77 (5), 83, 94
+- série n° 3 : 85 (2), 97, 103
+- série n° 4 : 18
+- Vos cartes : 38
+Saisissez votre choix : 38
+<clearScreen>
+A Paul de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36, 65 (2)
+- série n° 2 : 15 (2), 77 (5), 83, 94
+- série n° 3 : 85 (2), 97, 103
+- série n° 4 : 18
+- Vos cartes : 6
+Saisissez votre choix : 6
+<clearScreen>
+A George de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36, 65 (2)
+- série n° 2 : 15 (2), 77 (5), 83, 94
+- série n° 3 : 85 (2), 97, 103
+- série n° 4 : 18
+- Vos cartes : 54
+Saisissez votre choix : 54
+<clearScreen>
+A Ringo de jouer.
+<pause>
+- série n° 1 : 5 (2), 7, 36, 65 (2)
+- série n° 2 : 15 (2), 77 (5), 83, 94
+- série n° 3 : 85 (2), 97, 103
+- série n° 4 : 18
+- Vos cartes : 23
+Saisissez votre choix : 23
+<clearScreen>
+Les cartes 6 (Paul), 23 (Ringo), 38 (John) et 54 (George) vont être posées.
+Pour poser la carte 6, Paul doit choisir la série qu'il va ramasser.
+- série n° 1 : 5 (2), 7, 36, 65 (2)
+- série n° 2 : 15 (2), 77 (5), 83, 94
+- série n° 3 : 85 (2), 97, 103
+- série n° 4 : 18
+Saisissez votre choix : 1
+Les cartes 6 (Paul), 23 (Ringo), 38 (John) et 54 (George) ont été posées.
+- série n° 1 : 6
+- série n° 2 : 15 (2), 77 (5), 83, 94
+- série n° 3 : 85 (2), 97, 103
+- série n° 4 : 18, 23, 38, 54
+Paul a ramassé 6 têtes de boeufs
+** Score final
+John a ramassé 4 têtes de boeufs
+Ringo a ramassé 5 têtes de boeufs
+George a ramassé 17 têtes de boeufs
+Paul a ramassé 27 têtes de boeufs
